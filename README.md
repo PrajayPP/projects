@@ -50,5 +50,4 @@
 📩 **Email:** prajaypatil007@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/prajay-patil/
 
-
 💡 **Open to collaborations & new opportunities in Data Science, AI, and Cloud Computing!**  
